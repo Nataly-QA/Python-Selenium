@@ -1,5 +1,5 @@
 # pokemonbatlle
-To do homework at the QA Studio school
+To do homework at the
 
 ``` bash
 python -m venv env
